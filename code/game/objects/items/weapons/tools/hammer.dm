@@ -36,7 +36,7 @@
 	desc = "Used for applying immeasurable blunt force to anything in your way."
 	icon_state = "onehammer"
 	item_state = "onehammer"
-	wielded_icon = "onehammer_on"
+	wielded_icon = "onehammer_off"
 	switched_on_force = WEAPON_FORCE_BRUTAL
 	structure_damage_factor = STRUCTURE_DAMAGE_DESTRUCTIVE
 	w_class = ITEM_SIZE_HUGE
